@@ -1,0 +1,15 @@
+h1,
+h2{text-align: center;
+font-size: 25px;}
+
+h1{color: blanchedalmond;}
+
+h2{color: blueviolet;}
+
+h3{text-shadow: 1px 2px 3px palevioletred;
+font-size: 25px;}
+
+h4{text-decoration: underline;}
+
+h1,h2,h3,h4{text-align: center;
+font-family: "Times New Roman";}

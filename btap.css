@@ -1,0 +1,9 @@
+h1,
+h2{
+    text-align: center;
+    font-size: 30px;
+}
+
+h1{color: bisque;}
+h2{color: blueviolet;}
+h3 { color: aquamarine;}
